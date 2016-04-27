@@ -1,0 +1,1 @@
+# Qt-custom-gauge-widget-master
